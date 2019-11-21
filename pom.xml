@@ -68,6 +68,7 @@
       <artifactId>mybatis-spring</artifactId>
       <version>${org.mybatis.spring.version}</version>
     </dependency>
+
     <dependency>
       <groupId>org.mybatis</groupId>
       <artifactId>mybatis</artifactId>
@@ -100,6 +101,7 @@
       <version>1.1.2</version>
       <scope>compile</scope>
     </dependency>
+
     <dependency>
       <groupId>ch.qos.logback</groupId>
       <artifactId>logback-core</artifactId>
@@ -119,20 +121,17 @@
       <version>20.0</version>
     </dependency>
 
-
     <dependency>
       <groupId>org.apache.commons</groupId>
       <artifactId>commons-lang3</artifactId>
       <version>3.5</version>
     </dependency>
 
-
     <dependency>
       <groupId>commons-collections</groupId>
       <artifactId>commons-collections</artifactId>
       <version>3.2.1</version>
     </dependency>
-
 
     <dependency>
       <groupId>junit</groupId>
@@ -147,14 +146,12 @@
       <version>2.3</version>
     </dependency>
 
-
     <!-- id加密解密 -->
     <dependency>
       <groupId>org.hashids</groupId>
       <artifactId>hashids</artifactId>
       <version>1.0.1</version>
     </dependency>
-
 
     <!-- ftpclient -->
     <dependency>
@@ -164,7 +161,6 @@
     </dependency>
 
     <!-- file upload -->
-
     <!-- https://mvnrepository.com/artifact/commons-fileupload/commons-fileupload -->
     <dependency>
       <groupId>commons-fileupload</groupId>
@@ -178,11 +174,7 @@
       <version>2.0.1</version>
     </dependency>
 
-
-
-
     <!-- mybatis pager -->
-
     <dependency>
       <groupId>com.github.pagehelper</groupId>
       <artifactId>pagehelper</artifactId>
@@ -200,7 +192,6 @@
       <artifactId>jsqlparser</artifactId>
       <version>0.9.4</version>
     </dependency>
-
 
     <!-- alipay -->
     <dependency>
